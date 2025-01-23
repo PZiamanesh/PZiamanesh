@@ -5,11 +5,11 @@
 
 🌐 Network Engineering enthusiast with Cisco expertise
 
-💡 Bridging application development and network infrastructure
-
 💻 Computer Science enthusiast, continuous learner
 
-📚 Always exploring new technologies and concepts
+🎮 Gaming & Movie enthusiast
+
+🎨 Digital Art & Drawing hobbyist
 
 ## Tech Stack
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
