@@ -7,9 +7,7 @@
 
 💻 Computer Science enthusiast, continuous learner
 
-🎮 Gaming & Movie enthusiast
-
-🎨 Digital Art & Drawing hobbyist
+🎮 Avid gamer & movie buff
 
 ## Tech Stack
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
