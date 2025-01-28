@@ -5,7 +5,7 @@
 
 🌐 Network Engineering enthusiast with Cisco expertise
 
-💻 Computer Science enthusiast, continuous learner
+💻 Computer Science, continuous learner
 
 🎮 Avid gamer & movie buff
 
